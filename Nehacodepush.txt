@@ -1,0 +1,4 @@
+Welcome to the world of github
+
+git config --global user.email "nimjeneha056@gmail.com"
+  git config --global user.name "Neha2894"
